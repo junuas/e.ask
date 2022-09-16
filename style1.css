@@ -1,0 +1,13 @@
+.last {
+    font-style: italic;
+    width: 100%;
+    color: red;
+}
+
+button {
+    width: 33%;
+    height: 100px;
+    border: 30px solid darkslategray;
+    border-radius: 10px;
+    font-size: 40px;
+}
